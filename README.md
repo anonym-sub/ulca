@@ -2,11 +2,12 @@
 
 Content
 -----
-* manopt_dr: Manifold optimization based linear Dimensionality reduction method generator.
+* manopt_dr: Manifold optimization based linear dimensionality reduction method generator.
 * ulca: Manifold-optimization-based and EVD-based ULCA.
 * ulca_ui: Visual interface that can be used from the Jupyter Notebook.
 * perf_eval: Python scripts used for the performance evaluation.
 * case_studies: Notebooks that demonstrate the results shown in the case studies.
+* dr_comp: Python scripts used for the supplemental evaluation (comparison with other methods).
 
 ******
 
