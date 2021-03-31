@@ -15,7 +15,7 @@ Setup
 
 ### Requirements
 * Python3 (latest), pymanopt (https://github.com/pymanopt/pymanopt)
-* Note: Tested on macOS Big Sur with Python 3.9. Also, checked most functions work on Ubuntu 20.04 LTS with Python 3.9.
+* Note: Tested on macOS Big Sur and Ubuntu 20.04 LTS with Python 3.9 and Google Chrome. 
 
 ### Setup
 * Install pymanopt from the github repository (DO NOT use pip3 install pymanopt)
