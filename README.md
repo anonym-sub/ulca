@@ -2,12 +2,11 @@
 
 Content
 -----
-* manopt_dr: Manifold optimization based linear dimensionality reduction method generator.
+* manopt_dr: Manifold optimization based linear Dimensionality reduction method generator.
 * ulca: Manifold-optimization-based and EVD-based ULCA.
 * ulca_ui: Visual interface that can be used from the Jupyter Notebook.
 * perf_eval: Python scripts used for the performance evaluation.
 * case_studies: Notebooks that demonstrate the results shown in the case studies.
-* dr_comp: Python scripts used for the supplemental evaluation (comparison with other methods).
 
 ******
 
@@ -15,8 +14,8 @@ Setup
 -----
 
 ### Requirements
-* Python3, pymanopt (https://github.com/pymanopt/pymanopt)
-* Note: Tested on macOS Big Sur.
+* Python3 (latest), pymanopt (https://github.com/pymanopt/pymanopt)
+* Note: Tested on macOS Big Sur with Python 3.9. Also, checked most functions work on Ubuntu 20.04 LTS with Python 3.9.
 
 ### Setup
 * Install pymanopt from the github repository (DO NOT use pip3 install pymanopt)
