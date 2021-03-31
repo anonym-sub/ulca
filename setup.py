@@ -2,7 +2,7 @@ import sys
 import os
 from distutils.core import setup
 
-setup(name='manopt_dr',
+setup(name='ulca',
       version=0.1,
       packages=[''],
       package_dir={'': '.'},
